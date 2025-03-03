@@ -570,10 +570,6 @@ video {
   right: 2.5rem;
 }
 
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
 .flex {
   display: flex;
 }
@@ -645,11 +641,6 @@ video {
   padding-right: 2.5rem;
 }
 
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
-
 .py-32 {
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -679,5 +670,5 @@ video {
 }
 
 .card {
-  background-image: url(../Images/bg.png);
+  background-image: url(./Images/bg.png);
 }
